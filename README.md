@@ -1,0 +1,1 @@
+Here you'll find my scores for various assesments I've taken as a way to showcase my technical ability. If a skill is present on my resume but no assesment is shown, it means datacamp did not offer an assesment for that particuar skill, or I have not gotten around to taking it yet. 
